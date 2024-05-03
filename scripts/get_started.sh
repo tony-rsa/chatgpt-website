@@ -60,3 +60,4 @@ nano app/templates/index.html
 
 mkdir -p  app/static
 
+python run.py
