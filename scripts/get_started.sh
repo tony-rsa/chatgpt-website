@@ -58,4 +58,5 @@ EOF
 
 nano app/templates/index.html
 
-mkdir -p  app/stati
+mkdir -p  app/static
+
