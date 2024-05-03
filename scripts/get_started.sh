@@ -56,3 +56,4 @@ python run.py
 Using the Cookiecutter Flask template ensures that your Flask application follows best practices and has a well-defined structure. Let me know if you need further assistance!
 EOF
 
+nano 
