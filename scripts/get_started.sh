@@ -1,3 +1,3 @@
 pip install flask
 
-mkd
+mkdir 
