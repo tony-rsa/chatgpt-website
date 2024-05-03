@@ -62,4 +62,4 @@ mkdir -p  app/static
 
 python run.py &
 
-open "http://127.0.
+open "http://127.0.0.1:
