@@ -62,4 +62,4 @@ mkdir -p  app/static
 
 python run.py &
 
-open 
+open "ht
