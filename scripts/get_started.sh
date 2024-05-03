@@ -16,7 +16,7 @@ mkdir -p app/templates
 
 cat << EOF
 
-E
+EO
 
 
 
