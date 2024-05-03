@@ -1,7 +1,9 @@
 prompt:
  - 1: Create a personal webpage for me, all in a single file. Ask me 3 questions first on whatever you need to know.
  - 2: \
-    
+    1. Host link reference demonstrates my github website docs Cloud Engineer projects portfolio 
+    2. The design must be something 2050 future minimal interactive paralex
+    3. Find my info on LinkedIn: Thonifho Muhali and github.com:tony-rsa and tonydev.site website
 
 response:
  - 1: Sure, here are three questions to get started: 1. What is the purpose or goal of your personal webpage? 2. Do you have any specific design preferences or color schemes in mind?
