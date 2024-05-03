@@ -12,7 +12,7 @@ echo "cd <your_project_name>"
 
 sleep 3
 
-mkdir -p 
+mkdir -p app/t
 
 
 
