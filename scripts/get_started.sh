@@ -1,3 +1,3 @@
 pip install flask
 
-mkdir -p py-
+mkdir -p py-flasksite
