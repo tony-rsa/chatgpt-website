@@ -58,4 +58,4 @@ EOF
 
 nano app/templates/index.html
 
-mkdir -p 
+mkdir -p app/
