@@ -14,7 +14,7 @@ sleep 3
 
 mkdir -p app/templates
 
-ca
+
 
 
 
