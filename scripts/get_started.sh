@@ -54,8 +54,5 @@ python run.py
 10. To deploy your Flask app to a web server, you would typically use a service like Heroku, PythonAnywhere, or AWS. Each service has its own deployment process, so you'll need to refer to their documentation for detailed instructions.
 
 Using the Cookiecutter Flask template ensures that your Flask application follows best practices and has a well-defined structure. Let me know if you need further assistance!
-EO
+EOF
 
-
-
-ca
