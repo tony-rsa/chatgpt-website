@@ -2,4 +2,8 @@ prompt
  - 1: Create a personal webpage for me, all in a single file. Ask me 3 questions first on whatever you need to know.
 
 response:
- - 1: 
+ - 1: Sure, here are three questions to get started:
+
+ 1. What is the purpose or goal of your personal webpage?
+ 2. Do you have any specific design preferences or color schemes in mind?
+ 3. Can you provide some basic information about yourself that you'd like to include on the webpage, such as your name, profession, hobbies, etc.?
