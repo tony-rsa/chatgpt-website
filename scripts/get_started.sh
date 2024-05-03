@@ -9,6 +9,7 @@ cookiecutter https://github.com/sloria/cookiecutter-flask
 
 echo "cd <your_project_name>"
 
+sleep 3
 
 
 
