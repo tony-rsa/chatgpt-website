@@ -7,7 +7,8 @@ pushd py-flasksite
 
 cookiecutter https://github.com/sloria/cookiecutter-flask
 
-echo "
+echo "cd <your_project_name>"
+
 
 
 
