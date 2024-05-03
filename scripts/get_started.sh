@@ -14,7 +14,9 @@ sleep 3
 
 mkdir -p app/templates
 
-cat << 
+cat << EOF
+
+E
 
 
 
