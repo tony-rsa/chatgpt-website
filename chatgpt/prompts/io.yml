@@ -12,4 +12,56 @@ response:
      2. Do you have any specific design preferences or color schemes in mind?
  3. Can you provide some basic information about yourself that you'd like to include on the webpage, such as your name, profession, hobbies, etc.?
  - 2: \
-     
+     Great! Here's a simple HTML file for your personal webpage:
+
+     ```html
+     <!DOCTYPE html>
+     <html lang="en">
+     <head>
+         <meta charset="UTF-8">
+             <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                 <title>Thonifho Muhali - Cloud Engineer Portfolio</title>
+                     <style>
+                             body {
+                                         font-family: Arial, sans-serif;
+                                                     margin: 0;
+                                                                 padding: 0;
+                                                                             scroll-behavior: smooth;
+                                                                                     }
+                                                                                             /* Add your future minimal design styles here */
+                                                                                                 </style>
+                                                                                                 </head>
+                                                                                                 <body>
+
+                                                                                                 <!-- Navigation -->
+                                                                                                 <nav>
+                                                                                                     <ul>
+                                                                                                             <li><a href="#about">About</a></li>
+                                                                                                                     <li><a href="#projects">Projects</a></li>
+                                                                                                                             <li><a href="#contact">Contact</a></li>
+                                                                                                                                 </ul>
+                                                                                                                                 </nav>
+
+                                                                                                                                 <!-- About Section -->
+                                                                                                                                 <section id="about">
+                                                                                                                                     <h1>About Me</h1>
+                                                                                                                                         <p>Placeholder for information about Thonifho Muhali. You can find more about me on <a href="https://www.linkedin.com/in/thonifhomuhali/">LinkedIn</a>.</p>
+                                                                                                                                         </section>
+
+                                                                                                                                         <!-- Projects Section -->
+                                                                                                                                         <section id="projects">
+                                                                                                                                             <h1>Projects</h1>
+                                                                                                                                                 <p>Placeholder for Cloud Engineer projects portfolio. You can view my projects on <a href="https://github.com/tony-rsa">GitHub</a>.</p>
+                                                                                                                                                 </section>
+
+                                                                                                                                                 <!-- Contact Section -->
+                                                                                                                                                 <section id="contact">
+                                                                                                                                                     <h1>Contact</h1>
+                                                                                                                                                         <p>You can contact me through my <a href="https://tonydev.site">personal website</a>.</p>
+                                                                                                                                                         </section>
+
+                                                                                                                                                         </body>
+                                                                                                                                                         </html>
+                                                                                                                                                         ```
+
+                                                                                                                                                         This is a basic HTML structure for your personal webpage. You can add more content and style it according to your preferences. Let me know if you need any further customization!
